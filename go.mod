@@ -1,3 +1,3 @@
-module github.com/alfiansuhendar/go-say-hello/v3
+module github.com/alfiansuhendar/go-say-hello
 
 go 1.22.1
